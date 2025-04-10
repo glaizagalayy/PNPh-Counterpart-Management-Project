@@ -1,9 +1,9 @@
-@extends('layouts.app')
-@section('title', 'Login')
-@section('css')
-<link rel="stylesheet" href="{{ asset('css/login.css') }}">
-@endsection
-@section('content')
+/* @extends('layouts') */
+/* @section('title', 'Login') */
+/* @section('css') */
+/* <link rel="stylesheet" href="{{ asset('css/login.css') }}"> */
+/* @endsection */
+/* @section('content') */
 
 body {
     display: flex;
